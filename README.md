@@ -3,6 +3,7 @@
 ### A Node.js package for getting job list frequency from Indeed.com
 
 This was adapted from the following package, and modified to scrape the total number of jobs for each query [npm](https://www.npmjs.com/package/indeed-scraper).
+it is available here [npm](https://www.npmjs.com/package/indeed-job-frequency)
 
 ```
 npm install indeed-job-frequency
